@@ -69,29 +69,6 @@
 				</ul>
 			</div>
 
-			<div class="footer-nav__col footer-nav__col--lookbook">
-				<div class="footer-nav__heading">Lookbook</div>
-				<ul class="footer-nav__list">
-					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Latest posts</a>
-					</li>
-					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Men&apos;s lookbook</a>
-					</li>
-					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Women&apos;s lookbook</a>
-					</li>
-					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Lookbooks RSS feed</a>
-					</li>
-					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">View your lookbook</a>
-					</li>
-					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Delete your lookbook</a>
-					</li>
-				</ul>
-			</div>
 
 			<div class="footer-nav__col footer-nav__col--contacts">
 				<div class="footer-nav__heading">Contact details</div>
@@ -112,7 +89,7 @@
 		</div>
 	</div>
 
-	<div class="banners">
+	<!-- <div class="banners">
 		<div class="container clearfix">
 
 			<div class="banner-award">
@@ -135,21 +112,21 @@
 			</div>
 
 		</div>
-	</div>
+	</div> -->
 
 	<div class="page-footer__subline">
 		<div class="container clearfix">
 
 			<div class="copyright">
-				&copy; 2016 Avenue Fashion&trade;
+				&copy; 2018 Avenue Fashion&trade;
 			</div>
 
 			<div class="developer">
-				Dev by Loremipsum.com
+				Dev by Yasser Dalouzi
 			</div>
 
 			<div class="designby">
-				Design by RobbyDesigns.com
+				Design by Yasser Dalouzi
 			</div>
 		</div>
 	</div>
